@@ -1,2 +1,2 @@
-# VeriYapılar  Ve Algoritmalar
+# VeriYapıları  Ve Algoritmalar
 Patika.Dev VeriYapilari-Algoritmalar 
