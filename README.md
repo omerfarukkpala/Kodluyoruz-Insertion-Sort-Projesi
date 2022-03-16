@@ -1,0 +1,2 @@
+# VeriYap-lar-VeAlgoritmalar
+PatikaDevVeriYapilariVeAlgoritmalar 
